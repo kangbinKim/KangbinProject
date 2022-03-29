@@ -12,6 +12,7 @@ h1 {
 }
 
 .Zone {
+color: black;
 display: flex;flex-wrap: wrap;
 
 margin-top: 10%;
@@ -39,36 +40,36 @@ p {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.item1 {background-image: url(https://cafeptthumb-phinf.pstatic.net/MjAyMjAyMTdfMjgx/MDAxNjQ1MDU5MzUwMzM5.ezZ2BzCNqbSXlauKHLIwlRNhncRabVYRIodEbB7GNPkg.mIbd2-ZeGvcBIj45PB_xKDp57i4r3kHS2STBtR9D_-8g.JPEG/%EA%B7%B8%EB%A6%BC1.jpg?type=w1600);
+.item1 {background-image: url(software.jpeg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
 
 .item2{
-background-image: url(https://blogfiles.pstatic.net/MjAyMjAyMTdfMjg0/MDAxNjQ1MDU5NTM3Mzc0.ZppTswsYisYalFsTzrmU1quY9y-mBARN1cHBRtQwIKMg.bWHDVzn754qOjFxp7XEte5wJC1loVJ0ulk9sGr44_Skg.PNG.sungmini0607/%EA%B7%B8%EB%A6%BC4.png);
+background-image: url(design.jpg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
 
 .item3{
-background-image: url(https://blogfiles.pstatic.net/MjAyMjAyMTdfMjI2/MDAxNjQ1MDU5NTYwOTY2.y1RlXVg8a9oUcDkiwYBHSSixttM2-WcCkwf62PL46-Yg.4t19Yd-nC25Cpgkq4ibnhGFbzNFz4pXZxEOQrG78p4kg.JPEG.sungmini0607/%EA%B7%B8%EB%A6%BC7.jpg);
+background-image: url(elc.jpeg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
 
 .item4{
-background-image: url(https://postfiles.pstatic.net/MjAyMjAyMTdfMjQ2/MDAxNjQ1MDU5NTMwNzI4.9vr_r9UNRO4w9up3wAMNYiCZujR6369f3MxrFdi305Qg.x6G7eYcV045cuwn8--Dm4EXAhwIkwfB3Y6j7FBHVU14g.PNG.sungmini0607/%EA%B7%B8%EB%A6%BC3.png?type=w966);
+background-image: url(hardware.jpg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
 .item5 {
-background-image: url(https://blogfiles.pstatic.net/MjAyMjAyMTdfMjA3/MDAxNjQ1MDU5NTQ4MjM5.jRZCm3Zu1A3fAKSys2FCqrTiEvFFxN2w64kGXvPRvZUg.m7IAJpND0Edo3MeAh79Iah5avmj1uaUU9nSGnphB0GYg.JPEG.sungmini0607/%EA%B7%B8%EB%A6%BC5.jpg);
+background-image: url(car.jpeg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
 
 .item6 {
-background-image: url(https://blogfiles.pstatic.net/MjAyMjAyMTdfMjMz/MDAxNjQ1MDU5NTY2MjIx.uHyy5IuMYESjgNv3OI9Ny3hUU3OZOv-JMCP8_48fdVQg.bhzvbkUHdthq0pLCLMKPFhxyJ9VxXfPb-GnSV7xNth8g.JPEG.sungmini0607/%EA%B7%B8%EB%A6%BC8.jpg);
+background-image: url(teacher.jpeg);
 background-size: cover;
 background-position: center; /* 사진 넣을 때 꼭 필요한 세줄*/
 }
